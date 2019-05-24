@@ -1,0 +1,23 @@
+{
+  "name": "kubenode",
+  "version": "1.0.0",
+  "description": "SimpleNodeRestApp",
+  "main": "\\\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[3~\u001b[3~\u001b[",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumithxp/kubenode.git"
+  },
+  "keywords": [
+    "k8",
+    "node"
+  ],
+  "author": "Sumith Fernnado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sumithxp/kubenode/issues"
+  },
+  "homepage": "https://github.com/Sumithxp/kubenode#readme"
+}
